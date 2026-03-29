@@ -56,4 +56,4 @@ This analysis helps to better understand data behavior, identify trends, and sup
 ---
 
 ## Notebook
-👉 [Open Notebook](./python_eda_analysis.ipynb)
+👉 [Open Notebook](./[python_eda_analysis.ipynb](https://colab.research.google.com/drive/1pleewqMYagq2eNDMVFCfbrLkY8oVmSiY?usp=sharing))
