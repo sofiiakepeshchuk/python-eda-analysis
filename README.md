@@ -56,4 +56,4 @@ This analysis helps to better understand data behavior, identify trends, and sup
 ---
 
 ## Notebook
-👉 [Open Notebook](./https://colab.research.google.com/drive/1pleewqMYagq2eNDMVFCfbrLkY8oVmSiY?usp=sharing)
+👉 [Open Notebook](./https://colab.research.google.com/github/sofiiakepeshchuk/email-marketing-sql-analysis/blob/main/EDA_Analysis.ipynb#scrollTo=5YE3bvRGfxA9)
