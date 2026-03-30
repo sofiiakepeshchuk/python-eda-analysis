@@ -32,9 +32,9 @@ The dataset contains structured data used to explore trends, distributions, and 
 ---
 
 ## Insights
-- Identified key patterns and trends in the data  
-- Detected relationships and correlations between variables  
-- Generated insights based on visual analysis  
+- Identified key patterns in the dataset  
+- Found relationships between variables  
+- Detected trends and distributions in data  
 
 ---
 
@@ -48,7 +48,7 @@ The dataset contains structured data used to explore trends, distributions, and 
 ---
 
 ## Business Value
-This analysis helps understand data behavior, identify trends, and support data-driven decision-making.
+The analysis helps better understand data patterns, detect trends, and support data-driven decision-making.
 
 ---
 
