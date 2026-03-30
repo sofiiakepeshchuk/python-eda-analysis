@@ -3,7 +3,7 @@
 ## Overview
 This project focuses on exploratory data analysis (EDA) using Python to understand the dataset, identify patterns, and extract meaningful insights.
 
-The analysis includes data cleaning, transformation, and visualization to better understand the structure and relationships within the data.
+EDA is a crucial step in data analysis as it helps uncover trends, detect anomalies, and understand relationships between variables :contentReference[oaicite:0]{index=0}  
 
 ---
 
@@ -18,26 +18,23 @@ The analysis includes data cleaning, transformation, and visualization to better
 ---
 
 ## Dataset
-The dataset used in this project contains structured data for analysis.  
-It was explored to identify trends, detect anomalies, and understand variable relationships.
+The dataset contains structured data used to explore trends, distributions, and relationships between variables.
 
 ---
 
 ## Key Steps
-- Loaded and inspected the dataset (shape, columns, data types)  
-- Handled missing values and cleaned the data  
+- Loaded and explored the dataset (structure, columns, data types)  
+- Cleaned data (handled missing values and inconsistencies)  
 - Performed exploratory data analysis (EDA)  
 - Analyzed distributions and relationships between variables  
 - Created visualizations (histograms, plots, correlations)  
-
-EDA is a crucial step in data analysis as it helps understand the structure of the data, detect errors, and uncover patterns before further modeling :contentReference[oaicite:0]{index=0}  
 
 ---
 
 ## Insights
 - Identified key patterns and trends in the data  
-- Detected correlations between variables  
-- Highlighted important insights based on visual analysis  
+- Detected relationships and correlations between variables  
+- Generated insights based on visual analysis  
 
 ---
 
@@ -51,9 +48,9 @@ EDA is a crucial step in data analysis as it helps understand the structure of t
 ---
 
 ## Business Value
-This analysis helps to better understand data behavior, identify trends, and support data-driven decision-making.
+This analysis helps understand data behavior, identify trends, and support data-driven decision-making.
 
 ---
 
 ## Notebook
-👉 [Open Notebook](https://colab.research.google.com/github/sofiiakepeshchuk/python-eda-analysis/blob/main/EDA_Analysis.ipynb)
+[Open Notebook](./python_eda_analysis.ipynb)
