@@ -53,4 +53,4 @@ This analysis helps understand data behavior, identify trends, and support data-
 ---
 
 ## Notebook
-[Open Notebook](./python_eda_analysis.ipynb)
+[Open Notebook](https://colab.research.google.com/github/sofiiakepeshchuk/python-eda-analysis/blob/main/Sales_Analysis.ipynb)
