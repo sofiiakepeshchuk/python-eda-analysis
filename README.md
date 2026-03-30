@@ -3,7 +3,7 @@
 ## Overview
 This project focuses on exploratory data analysis (EDA) using Python to understand the dataset, identify patterns, and extract meaningful insights.
 
-EDA is a crucial step in data analysis as it helps uncover trends, detect anomalies, and understand relationships between variables :contentReference[oaicite:0]{index=0}  
+EDA is a crucial step in data analysis as it helps uncover trends, detect anomalies, and understand relationships between variables.
 
 ---
 
@@ -18,7 +18,7 @@ EDA is a crucial step in data analysis as it helps uncover trends, detect anomal
 ---
 
 ## Dataset
-The dataset contains structured data used to explore trends, distributions, and relationships between variables.
+The dataset represents structured data used to analyze patterns, distributions, and relationships between variables.
 
 ---
 
